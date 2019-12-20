@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MasterMind:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e963304-2153-455b-a9c5-8ed1830b91b3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hg1Ini</find>
+      <find>vg1.addGroup (vg1x0);</find>
+      <find>src\\</find>
+      <find>InterficiePartida</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\clases2018\3ºTrimestre\practica\Practica\MasterMind\img</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1PCwGoRXeihr1xo5ONPSl7cmbxh" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Codigo.Entornografico" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Codigo.Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\clases2018\3ºTrimestre\practica\Practica\MasterMind\out\production\MasterMind" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Codigo.Test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\clases2018\3ºTrimestre\practica\Practica\MasterMind" />
+      <recent name="D:\clases2018\3ºTrimestre\practica\Practica\MasterMind\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MasterMind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codigo.Entornografico.MasterMind" />
+      <module name="MasterMind" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MasterMind" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e963304-2153-455b-a9c5-8ed1830b91b3" name="Default Changelist" comment="" />
+      <created>1554813671672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554813671672</updated>
+      <workItem from="1561617994466" duration="159000" />
+      <workItem from="1561618453381" duration="8177000" />
+      <workItem from="1562610296283" duration="69000" />
+      <workItem from="1562610458432" duration="1842000" />
+      <workItem from="1562612668964" duration="4000" />
+      <workItem from="1562676852874" duration="1439000" />
+      <workItem from="1562831570318" duration="599000" />
+      <workItem from="1562834256026" duration="654000" />
+      <workItem from="1562958757325" duration="599000" />
+      <workItem from="1563040578984" duration="1431000" />
+      <workItem from="1563659197391" duration="5374000" />
+      <workItem from="1563728563996" duration="2316000" />
+      <workItem from="1565369430709" duration="24000" />
+      <workItem from="1565391016375" duration="28000" />
+      <workItem from="1565391297716" duration="30000" />
+      <workItem from="1569261514930" duration="29000" />
+      <workItem from="1569262002902" duration="1159000" />
+      <workItem from="1569963679537" duration="423000" />
+      <workItem from="1570274170628" duration="69000" />
+      <workItem from="1570274357991" duration="43000" />
+      <workItem from="1570302310174" duration="1044000" />
+      <workItem from="1576795202609" duration="26000" />
+      <workItem from="1576795348460" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MasterMind:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MasterMind</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

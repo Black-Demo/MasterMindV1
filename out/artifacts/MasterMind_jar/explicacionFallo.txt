@@ -1,0 +1,5 @@
+Joan perdona las molestias pero no entiendo por que el .jar no me coge las imágenes, 
+he estado buscando información sobre ello pero no encuentro nada, 
+mañana por la tarde me encargare de corregirlo e intentar que funcione, 
+dentro se encuentra los .java en una carpeta llamada puntoJava.
+Gracia de antemano y hasta mañana.
